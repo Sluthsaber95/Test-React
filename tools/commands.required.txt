@@ -1,0 +1,4 @@
+Commands
+
+Changes from Window's default Terminal to -> BASH
+"C:\Program Files\Git\bin\sh.exe" -login -i
